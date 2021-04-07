@@ -12,3 +12,7 @@ error_log("9876543\n", 3, "log/debug.log");
 //exit();
 
 header("Location: dist.php");
+?>
+
+
+<h1>リダイレクト元です</h1>
