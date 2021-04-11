@@ -8,5 +8,5 @@ if1.php、if2.php、if3.phpと続けてみましょう。
 # リダイレクトなどで画面表示ができない場合
 最後に、error_log.phpを試して、dist.phpにリダイレクトされることを確認しましょう。
 
-#オマケ
+# オマケ
 helperにdebug_helper.phpというCodeIgniterのヘルパーファイルが入っています。
